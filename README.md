@@ -16,8 +16,9 @@ College of Life Science and Technology, Jinan University (Supervisor: Zhi Huang 
 Guangzhou No.4 Middle School  
 
 #### Research Areas and Interests  
-1. Applying single-cell and sptial-omics for cancer biology  
-...  
+1. Applying single-cell and sptial-omics for cancer biology
+2. Large cohort and multi-omics data mining
+3. Tumor evolution
 
 #### Selected Publications  
 
