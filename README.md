@@ -13,4 +13,4 @@ B.S. in Biological Science - College of Life Science and Technology, Jinan Unive
 3. Tumor evolution
 
 #### Selected Publications  
-Wang, H., Li, J., Jing, S. et al. SOAPy: a Python package to dissect spatial architecture, dynamics, and communication. Genome Biol 26, 80 (2025). https://doi.org/10.1186/s13059-025-03550-5
+[1] Wang, H., __Li, J.__, Jing, S. et al. SOAPy: a Python package to dissect spatial architecture, dynamics, and communication. Genome Biol 26, 80 (2025). https://doi.org/10.1186/s13059-025-03550-5
