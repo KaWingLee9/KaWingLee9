@@ -4,8 +4,9 @@ __E-mail:__ lijiarong2020@sinh.ac.cn
 __Biography:__ https://orcid.org/my-orcid?orcid=0009-0006-0334-7757, https://www.researchgate.net/profile/Jiarong-Li-33  
 
 #### Career
-[2] 2020-present, Ph.D. candidate in Computational Biology, Key Laboratory of Computational Biology, Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences (Formerly known as CAS-MPG Partner Institute for Computational Biology, Supervisor: Hong Li, PhD.)  
-[1] 2016-2020, B.S. in Biological Science, College of Life Science and Technology, Jinan University (Supervisor: Zhi Huang and Weidong Yang) 
+[3] 2020-present, Ph.D. candidate in Computational Biology, Key Laboratory of Computational Biology, Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, Shanghai, China (Formerly known as CAS-MPG Partner Institute for Computational Biology, Supervisor: Hong Li, PhD.)  
+[2] 2016-2020, B.S. in Biological Science, College of Life Science and Technology, Jinan University, Guangzhou, China (Supervisor: Zhi Huang and Weidong Yang) 
+[1] 2013-2016, High school degree, Guangzhou No.4 Middle School, Guangzhou, China  
 
 #### Research Areas and Interests  
 [1] Applying single-cell and sptial-omics for cancer biology  
