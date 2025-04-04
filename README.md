@@ -8,9 +8,9 @@ __Biography:__ https://orcid.org/my-orcid?orcid=0009-0006-0334-7757, https://www
 [1] 2016-2020, B.S. in Biological Science, College of Life Science and Technology, Jinan University (Supervisor: Zhi Huang and Weidong Yang) 
 
 #### Research Areas and Interests  
-1. Applying single-cell and sptial-omics for cancer biology
-2. Large cohort and multi-omics data mining
-3. Tumor evolution
+[1] Applying single-cell and sptial-omics for cancer biology
+[2] Large cohort and multi-omics data mining
+[3] Tumor evolution
 
 #### Selected Publications  
 [1] Wang, H.#, __Li, J.__#, Jing, S. et al. SOAPy: a Python package to dissect spatial architecture, dynamics, and communication. Genome Biol 26, 80 (2025). https://doi.org/10.1186/s13059-025-03550-5
