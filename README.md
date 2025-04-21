@@ -14,5 +14,5 @@ __Biography:__ https://orcid.org/my-orcid?orcid=0009-0006-0334-7757, https://www
 + Tumor evolution  
 
 #### Selected Publications  
-(#co-first author, *corresponding author)  
+(co-first author#, corresponding author*)  
 + Wang, H.#, __Li, J.#__, Jing, S., Lin, P., Qiu, Y., Yan, X., Yuan, J., Tang, Z., Li, Y., Zhang, H., Chen, Y., Wang, Z., & Li, H.* (2025). SOAPy: a Python package to dissect spatial architecture, dynamics, and communication. __*Genome biology*__, 26(1), 80. https://doi.org/10.1186/s13059-025-03550-5 __[Toolkit available at: https://github.com/LiHongCSBLab/SOAPy]__  
