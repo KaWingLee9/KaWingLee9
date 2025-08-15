@@ -11,7 +11,7 @@ __Biography:__ https://orcid.org/0009-0006-0334-7757, https://www.researchgate.n
 #### Research Areas and Interests  
 + Applying single-cell and sptial-omics for cancer biology  
 + Large cohort and multi-omics data mining  
-+ Tumor evolution  
++ Tumor evolution during tumorigeniesis and metastasis  
 
 #### Selected Publications  
 (co-first author#, corresponding author*; full publication list could be found in my biography)  
