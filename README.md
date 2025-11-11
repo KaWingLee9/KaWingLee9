@@ -9,9 +9,9 @@ __Biography:__ https://orcid.org/0009-0006-0334-7757, https://www.researchgate.n
 + 2013-2016, Guangzhou No.4 Middle School, Guangzhou, China
 
 #### Research Areas and Interests  
-+ Applying single-cell and sptial-omics for cancer biology  
++ Applying single-cell and spatial-omics for cancer biology  
 + Data mining using large-cohort and multi-omics data  
-+ Tumor evolution during tumorigeniesis and metastasis  
++ Tumor evolution during tumorigenesis and metastasis  
 
 #### Selected Publications  
 (co-first author#, corresponding author*; full publication list could be found in my biography)  
