@@ -1,7 +1,7 @@
 Jiarong Li (Ka-Wing Lee)  
 __English name:__ Kelvin Lee  
 __E-mail:__ lijiarong2020@sinh.ac.cn  
-__Biography:__ https://orcid.org/0009-0006-0334-7757, https://www.researchgate.net/profile/Jiarong-Li-33  
+__Biography:__ https://orcid.org/0009-0006-0334-7757, https://www.researchgate.net/profile/Jiarong-Li-33, https://scholar.google.com/citations?user=zLVnQBsAAAAJ&hl=en  
 
 #### Education
 + 2020-2026, PhD candidate in Computational Biology, Key Laboratory of Computational Biology, Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences [University of Chinese Academy of Sciences], Shanghai, China (Formerly known as CAS-MPG Partner Institute for Computational Biology; Supervisor: Hong Li, PhD)  
