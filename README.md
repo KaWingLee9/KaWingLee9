@@ -15,5 +15,5 @@ __Biography:__ https://orcid.org/0009-0006-0334-7757, https://www.researchgate.n
 
 #### Selected Publications  
 (co-first author#, corresponding author*; full publication list could be found in my biography)  
-+ __Li, J.__, Lin, P., Wang, H., Tang, Z., Yan, X., Chen, X., Yuan, J., Chen, W., & Li, H. (2026). Pan-cancer analysis of spatial transcriptomics reveals heterogeneous tumor spatial microenvironment. __Cell reports Medicine__, 102751. Advance online publication. https://doi.org/10.1016/j.xcrm.2026.102751  
++ __Li, J.__, Lin, P., Wang, H., Tang, Z., Yan, X., Chen, X., Yuan, J., Chen, W., & Li, H. (2026). Pan-cancer analysis of spatial transcriptomics reveals heterogeneous tumor spatial microenvironment. __*Cell Reports Medicine*__, 102751. Advance online publication. https://doi.org/10.1016/j.xcrm.2026.102751  
 + Wang, H.#, __Li, J.#__, Jing, S., Lin, P., Qiu, Y., Yan, X., Yuan, J., Tang, Z., Li, Y., Zhang, H., Chen, Y., Wang, Z., & Li, H.* (2025). SOAPy: a Python package to dissect spatial architecture, dynamics, and communication. __*Genome biology*__, 26(1), 80. https://doi.org/10.1186/s13059-025-03550-5 __[Toolkit available at: https://github.com/LiHongCSBLab/SOAPy]__  
